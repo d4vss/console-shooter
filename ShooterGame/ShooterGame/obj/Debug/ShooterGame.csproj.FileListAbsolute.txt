@@ -1,0 +1,8 @@
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\bin\Debug\ShooterGame.exe.config
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\bin\Debug\ShooterGame.exe
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\bin\Debug\ShooterGame.pdb
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\obj\Debug\ShooterGame.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\obj\Debug\ShooterGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\obj\Debug\ShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\obj\Debug\ShooterGame.exe
+C:\Users\Abdul\OneDrive\Desktop\ShooterGame\ShooterGame\obj\Debug\ShooterGame.pdb
